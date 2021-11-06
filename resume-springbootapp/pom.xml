@@ -102,7 +102,7 @@
    <artifactId>spring-boot-maven-plugin</artifactId>
    <configuration>
     <image>
-     <name>springbootresume.azurecr.io/resume-springboot-image</name>
+     <name>resumespringboot.azurecr.io/resume-springboot-image</name>
     </image>
     <layers>
      <enabled>true</enabled>
