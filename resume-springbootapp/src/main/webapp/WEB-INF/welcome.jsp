@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Resume Generator</title>
 <style type="text/css">
 * {
     box-sizing: border-box;
@@ -143,6 +143,7 @@
 </style>
 </head>
 <body>
+    <center><h1>Resume Generator</h1></center>
 <input id="javascript" type="radio" name="choice" checked="checked"/>
 <input id="typescript" type="radio" name="choice"/>
 <input id="Details" type="radio" name="choice"/>
